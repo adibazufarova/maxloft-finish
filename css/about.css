@@ -1,0 +1,29 @@
+.about__title {
+  margin-top: 113px;
+  display: flex;
+  justify-content: center;
+}
+
+.about__title h1 {
+  color: rgba(236, 127, 0, 1);
+}
+
+.about__info {
+  margin-top: 44px;
+  margin-left: 29px;
+  margin-right: 40px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.text {
+  height: 336px;
+  width: 762px;
+  font-family: Montserrat;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 24px;
+  letter-spacing: 0em;
+  text-align: left;
+}

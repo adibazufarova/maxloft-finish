@@ -1,0 +1,28 @@
+footer {
+  height: 144px;
+  background: rgba(49, 49, 49, 1);
+}
+
+.footer__logo {
+  margin-left: 46px;
+}
+
+.footer__item {
+  padding: 60px 208px 60px 67px;
+}
+
+.footer__item a:hover {
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+.footer__item ul {
+  width: 608px;
+  display: flex;
+  justify-content: space-between;
+  font-family: Montserrat;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 24px;
+}

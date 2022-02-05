@@ -1,0 +1,42 @@
+.main {
+  height: 907px;
+  background-color: rgba(49, 49, 49, 1);
+}
+.main_img_1 {
+  position: absolute;
+  z-index: 1;
+}
+
+.main_img_2 {
+  position: absolute;
+  z-index: 2;
+  margin-top: 265px;
+  margin-left: 355px;
+}
+
+.main__title {
+  margin-left: 41px;
+  margin-top: 139px;
+  position: absolute;
+  z-index: 3;
+}
+
+.main__title h1 {
+  color: white;
+}
+
+.main__title p {
+  margin-top: 21px;
+  font-family: Montserrat;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 24px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: white;
+}
+
+.application_btn {
+  margin-top: 86px;
+}
